@@ -5,3 +5,4 @@ files/*
 tmp/
 dist/
 zeal.ini
+!.claude/settings.local.json
